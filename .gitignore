@@ -1,0 +1,5 @@
+node_modules
+.vscode
+.secret
+.env
+*-lock.json
